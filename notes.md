@@ -37,6 +37,7 @@ Docker CLI (Client): The command-line interface (CLI) is the tool you use to int
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. Docker Image: A Docker image is a lightweight, standalone, and executable package that includes everything needed to run a piece of software. It's read-only and is used to create containers.
+* A Docker Image is a lightweight, standalone, and executable package that contains all the instructions to run an application.
 
 Components of a Docker Image:
 Base Image: This is the starting point, usually a minimal OS or runtime.
